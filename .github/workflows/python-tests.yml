@@ -1,8 +1,6 @@
 name: Python Tests
 
 on:
-  push:
-    branches: ["*"]            # Triggers on any branch push
   pull_request:
     branches: ["*"]            # Triggers on any pull request to any branch
 
