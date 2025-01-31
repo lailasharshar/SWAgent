@@ -1,1 +1,2 @@
-from .pantry_item import PantryItem\n\ndef first():\n    print("Hello World")\n    item = PantryItem(name="Flour", quantity=2, unit="cups")
+def first():
+    print("Hello World")
